@@ -1,0 +1,14 @@
+# Ignore secrets
+secret.properties
+src/main/resources/application.properties
+
+# Build
+target/
+*.log
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
