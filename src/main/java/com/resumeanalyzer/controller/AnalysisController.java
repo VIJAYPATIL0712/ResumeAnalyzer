@@ -11,7 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/api/analysis")
+@RequestMapping("/api/analysis/abc")
 public class AnalysisController {
 
     @Autowired
