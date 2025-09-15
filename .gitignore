@@ -1,6 +1,7 @@
-# Ignore secrets
+
+# ignore sensitive secrets
 secret.properties
-src/main/resources/application.properties
+
 
 # Build
 target/
